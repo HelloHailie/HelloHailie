@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HelloHailie
 - 👀 I’m interested in making something including coding.
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT
 - 💞️ I’m looking to collaborate on making website someday.
 - ⭐️ I'm studying CS to become a computer engineer. I'm very interested in frontend.
 - 🍅 I'm going through the front-end process in Code States.
